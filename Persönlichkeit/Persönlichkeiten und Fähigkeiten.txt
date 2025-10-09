@@ -1,0 +1,83 @@
+Hingabe
+Überall
+	Heilende Weisheit		Verringert FP-Kosten beim Nutzen von Heilungsfähigkeiten um 10 %.
+	FP-Ergänzung			Bei TP-Heilung durch eine Fähigkeit werden die FP zusätzlich um 10 % der max. FP geheilt.
+	
+Liebevoll
+	Nachhut					Handelt immer zuletzt.
+	Heilendes 				Gebet	TP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
+	
+Aufopfernd
+	Eiserner Geist			Steigert GEI basierend auf TP des Benutzers.
+	Erste Hilfe				Bei TP-Heilung durch eine Fähigkeit werden die Verletzungen des Ziels auch geheilt.
+	
+Tolerant
+	Eisernes Herz			Steigert VER, wenn TP bei 90 % oder weniger sind. (Je geringer die TP, umso größerer VER-Schub.)
+	Aufbauender Segen		Wird bei K. o. mit 50 % TP wiederbelebt (einmal pro Kampf).
+	
+Schützend
+	Früher Vogel			Handelt immer zuerst.
+	Große Umarmung			Bei TP-Heilung durch eine Fähigkeit werden bis zu 200 % der max. TP geheilt.
+
+Tapferkeit
+Überall
+	Kriegerweisheit			Verringert FP-Kosten bei physischen Angriffen um 10 %.
+	Siegeslied				Steigert erhaltene KP leicht.
+	
+Eifrig
+	Früher Vogel			Handelt immer zuerst.
+	Schnelle Zerstörung		Steigert ANG für die ersten 3 Züge. (Je früher die Runde, umso höher der ANG-Schub.)
+	
+Mutig
+	Vitalitätsdieb			Heilt TP in Höhe von 10 % des verursachten physischen Fähigkeitenschadens.
+	Zusatzhiebgeheimnis		Führt zusätzlichen Angriff aus, wenn Zusatzhiebe aktiviert werden.
+	
+Waghalsig
+	Eiserne Macht			Steigert ANG, wenn TP bei 90 % oder weniger sind. (Je geringer die TP, umso größerer ANG-Schub.)
+	Konter					Ermöglicht die Chance, Angriffe zu kontern. (Je geringer die TP, umso höher die Chance.)
+	
+Kühn
+	Strategischer Befehl	Steigert KRI um 5 %.
+	Robuste Abwehr			Steigert VER basierend auf TP des Benutzers.
+
+Weisheit
+Überall
+	Magische Weisheit		Verringert FP-Kosten bei magischen Angriffen um 10 %.
+	Geheime Weisenkunst		Normale Angriffe werden zu magischen Angriffen.
+	
+Aufgeweckt
+	Meditation				Steigert INT ab Zug 4. (Je höher die Zuganzahl, desto höher der INT-Schub.)
+	Kombomagie				Ermöglicht die Chance, magische Fähigkeiten zwei Mal zu aktivieren. (Je geringer die TP, umso höher die Chance.)
+	
+Verschmitzt
+	Schwinger				Steigert KRI-Schaden um 20 %.
+	Tiefe Konzentration		Steigert INT für die ersten 3 Runden. (Je früher die Runde, umso höher der INT-Schub.)
+	
+Scharfsinnig
+	Eiserne Emotionen		Steigert INT, wenn TP bei 90 % oder weniger sind. (Je geringer die TP, umso größerer INT-Schub.)
+	Magiedieb				Heilt FP in Höhe von 10 % des verursachten magischen Schadens.
+	
+Strategisch
+	Nachhut					Handelt immer zuletzt.
+	Besänftigendes Lied		FP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
+
+Güte
+Überall
+	Jubel					Zu Kampfbeginn werden ANG und INT aller Verbündeten um Gesamtbindung der Kampfmitglieder gesteigert.
+	Scherzbold				Steigert die Wahrscheinlichkeitsrate von Fähigkeitenschwächungseffekten.
+	
+Gerissen
+	Lahme Ente				Steigert ANG ab Runde 4. (Je höher die Rundenzahl, desto höher der ANG-Schub.)
+	Vorausplanung			Zu Kampfbeginn werden VER und GEI aller Gegner um Gesamtbindung der Kampfmitglieder verringert.
+	
+Freundlich
+	Strategischer Befehl	Steigert KRI um 5 %.
+	Verstärkender Ansturm	Bei TP-Heilung durch eine Fähigkeit werden alle Werte des Zieldigimons erhöht.
+	
+Gesellig
+	Buhrufe					Erhöht die Wirkungsdauer von Fähigkeiten-schwächungseffekten um 2 Züge.
+	Schwachpunktstich		Erhöht verursachten Schaden, wenn der Schwachpunkt eines Gegners nach Treffer eines Verbündeten erneut getroffen wird.
+	
+Mitfühlend
+	Eiserne Stärke			Steigert ANG basierend auf TP des Benutzers.
+	Hetzender Schrei		Erhöht die Wirkungsdauer von Fähigkeiten-stärkungseffekten um 2 Züge.
