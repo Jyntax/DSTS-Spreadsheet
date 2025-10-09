@@ -1,4 +1,4 @@
-Hingabe
+--------- Hingabe ---------
 Überall
 	Heilende Weisheit		Verringert FP-Kosten beim Nutzen von Heilungsfähigkeiten um 10 %.
 	FP-Ergänzung			Bei TP-Heilung durch eine Fähigkeit werden die FP zusätzlich um 10 % der max. FP geheilt.
@@ -18,8 +18,9 @@ Tolerant
 Schützend
 	Früher Vogel			Handelt immer zuerst.
 	Große Umarmung			Bei TP-Heilung durch eine Fähigkeit werden bis zu 200 % der max. TP geheilt.
+_____________________________________________
 
-Tapferkeit
+--------- Tapferkeit ---------
 Überall
 	Kriegerweisheit			Verringert FP-Kosten bei physischen Angriffen um 10 %.
 	Siegeslied				Steigert erhaltene KP leicht.
@@ -39,8 +40,9 @@ Waghalsig
 Kühn
 	Strategischer Befehl	Steigert KRI um 5 %.
 	Robuste Abwehr			Steigert VER basierend auf TP des Benutzers.
+_____________________________________________
 
-Weisheit
+--------- Weisheit ---------
 Überall
 	Magische Weisheit		Verringert FP-Kosten bei magischen Angriffen um 10 %.
 	Geheime Weisenkunst		Normale Angriffe werden zu magischen Angriffen.
@@ -60,8 +62,9 @@ Scharfsinnig
 Strategisch
 	Nachhut					Handelt immer zuletzt.
 	Besänftigendes Lied		FP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
+_____________________________________________
 
-Güte
+--------- Güte ---------
 Überall
 	Jubel					Zu Kampfbeginn werden ANG und INT aller Verbündeten um Gesamtbindung der Kampfmitglieder gesteigert.
 	Scherzbold				Steigert die Wahrscheinlichkeitsrate von Fähigkeitenschwächungseffekten.
