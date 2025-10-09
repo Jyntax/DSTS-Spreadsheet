@@ -5,7 +5,7 @@
 	
 1	Liebevoll
 		Nachhut					Handelt immer zuletzt.
-		Heilendes 				Gebet	TP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
+		Heilendes Gebet 		TP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
 	
 2	Aufopfernd
 		Eiserner Geist			Steigert GEI basierend auf TP des Benutzers.
