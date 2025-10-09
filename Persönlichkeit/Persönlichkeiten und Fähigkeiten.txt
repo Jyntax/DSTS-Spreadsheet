@@ -18,6 +18,7 @@ Tolerant
 Schützend
 	Früher Vogel			Handelt immer zuerst.
 	Große Umarmung			Bei TP-Heilung durch eine Fähigkeit werden bis zu 200 % der max. TP geheilt.
+	
 _____________________________________________
 
 --------- Tapferkeit ---------
@@ -40,6 +41,7 @@ Waghalsig
 Kühn
 	Strategischer Befehl	Steigert KRI um 5 %.
 	Robuste Abwehr			Steigert VER basierend auf TP des Benutzers.
+	
 _____________________________________________
 
 --------- Weisheit ---------
@@ -62,6 +64,7 @@ Scharfsinnig
 Strategisch
 	Nachhut					Handelt immer zuletzt.
 	Besänftigendes Lied		FP aller Verbündeten werden zu Beginn jeder Runde geringfügig geheilt.
+	
 _____________________________________________
 
 --------- Güte ---------
