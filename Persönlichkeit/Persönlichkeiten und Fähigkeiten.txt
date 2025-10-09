@@ -51,10 +51,10 @@ _____________________________________________
 	
 9	Aufgeweckt
 		Meditation				Steigert INT ab Zug 4. (Je höher die Zuganzahl, desto höher der INT-Schub.)
-		Kombomagie				Ermöglicht die Chance, magische Fähigkeiten zwei Mal zu aktivieren. (Je geringer die TP, umso höher die Chance.)
+		Schwinger				Steigert KRI-Schaden um 20 %.
 	
 10	Verschmitzt
-		Schwinger				Steigert KRI-Schaden um 20 %.
+		Kombomagie				Ermöglicht die Chance, magische Fähigkeiten zwei Mal zu aktivieren. (Je geringer die TP, umso höher die Chance.)
 		Tiefe Konzentration		Steigert INT für die ersten 3 Runden. (Je früher die Runde, umso höher der INT-Schub.)
 	
 11	Scharfsinnig
